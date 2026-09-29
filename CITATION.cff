@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "Se usar este software, por favor cite-o conforme os metadados abaixo."
+type: software
+title: "Semáforo da Reprodutibilidade: verificador de reprodutibilidade e acessibilidade de artigos"
+abstract: >-
+  Triagem de reprodutibilidade de artigos científicos baseada nos princípios FAIR.
+  Dez perguntas em quatro blocos com pesos distintos (dados; código e ambiente;
+  método e protocolo; acesso e crédito) geram um veredito em três níveis.
+  Um modelo de linguagem pode preencher um rascunho das respostas, exibindo o
+  trecho do artigo que sustenta cada uma; o veredito final é sempre do avaliador
+  humano. Produto digital do trabalho final da disciplina Introdução à Ciência
+  Aberta (Fiocruz, 2026).
+authors:
+  - family-names: "Bastos"
+    given-names: "Larissa de Oliveira"
+    orcid: "https://orcid.org/0000-0001-6848-6586"
+    affiliation: "Programa de Pós-graduação em Biologia Computacional e Sistemas, Fundação Oswaldo Cruz (Fiocruz)"
+version: "1.0.0"
+date-released: "2026-09-29"
+license: MIT
+repository-code: "https://github.com/SEU-USUARIO/semaforo-reprodutibilidade"
+keywords:
+  - ciência aberta
+  - reprodutibilidade
+  - princípios FAIR
+  - open science
+  - reproducibility
+  - FAIR principles
+references:
+  - type: article
+    title: "The FAIR Guiding Principles for scientific data management and stewardship"
+    authors:
+      - family-names: "Wilkinson"
+        given-names: "Mark D."
+    journal: "Scientific Data"
+    volume: 3
+    year: 2016
+    doi: "10.1038/sdata.2016.18"
