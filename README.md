@@ -1,6 +1,6 @@
 # Semáforo da Reprodutibilidade
 
-<!-- Depois da primeira release, cole aqui o badge do DOI gerado pelo Zenodo -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23043457.svg)](https://doi.org/10.5281/zenodo.23043457)
 
 Triagem de reprodutibilidade de artigos científicos baseada nos princípios FAIR. Em cerca de cinco minutos, você descobre se um artigo oferece condições mínimas de verificação e reuso, antes de investir semanas construindo um projeto em cima dele.
 
