@@ -4,7 +4,7 @@
 
 Triagem de reprodutibilidade de artigos científicos baseada nos princípios FAIR. Em cerca de cinco minutos, você descobre se um artigo oferece condições mínimas de verificação e reuso, antes de investir semanas construindo um projeto em cima dele.
 
-**Experimente:** [link do artefato publicado](COLE-AQUI-O-LINK)
+**Experimente:** [link do artefato publicado](https://claude.ai/public/artifacts/6c37ec32-646a-4106-94da-116bfcce8cbe)
 
 ## Como funciona
 
