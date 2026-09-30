@@ -57,7 +57,7 @@ O relatório pode ser baixado em Markdown.
 
 ## Como citar
 
-Use o botão *Cite this repository* no GitHub ou os metadados em [`CITATION.cff`](CITATION.cff). Após a release, o DOI permanente está disponível no Zenodo.
+Use o botão *Cite this repository* no GitHub ou os metadados em [`CITATION.cff`](CITATION.cff). 
 
 ## Licença
 
