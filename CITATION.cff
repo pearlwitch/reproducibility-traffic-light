@@ -18,7 +18,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-09-29"
 license: MIT
-repository-code: "https://github.com/SEU-USUARIO/semaforo-reprodutibilidade"
+repository-code: "https://github.com/pearlwitch/reproducibility-traffic-light/"
 keywords:
   - ciência aberta
   - reprodutibilidade
